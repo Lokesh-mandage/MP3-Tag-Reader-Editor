@@ -1,0 +1,8 @@
+mp3tag
+temp.mp3
+*.o
+*.swp
+success.mp3
+test_v23_backup.mp3
+test_v23_before_resize.mp3
+/test_v23.mp3
